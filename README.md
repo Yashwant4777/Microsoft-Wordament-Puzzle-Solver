@@ -7,3 +7,5 @@ First the Puzzle grid is taken as input then all the words which exists in the p
 #Input:- Wordament Puzzle.
 #Output:- All valid words.
 #Complexity:- O(m) for searching the words in trie (where m=length of word).
+
+![](images/Screenshot(57).png)
